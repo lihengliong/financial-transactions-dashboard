@@ -25,7 +25,7 @@ streamlit run app.py
 - Interactive filters (date range, category, merchant, payment method, account type)
 - KPIs (total amount, number of transactions, average amount)
 - Visualizations: time series, category breakdown, merchant top N, payment method share, weekday-hour heatmap
-- Optional: simple outlier detection
+- Simple outlier detection
 
 ## File Structure
 ```
