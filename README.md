@@ -2,6 +2,8 @@
 
 An interactive Streamlit dashboard to explore `financial_transactions.csv`.
 
+Deployed streamlit website url: https://financial-transactions-dashboard.streamlit.app/
+
 ## Quickstart
 
 1. Create a virtual environment (recommended):
